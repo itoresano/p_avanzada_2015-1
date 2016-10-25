@@ -1,0 +1,41 @@
+[INFORME]
+-----------------------------------------------------------
+Total ganado por el supermercado: 61472
+---------
+TOP 10 de productos comprados por tipo de cliente
+TIPO: RAPIDOS
+['LECHE', 'JUGO', 'BEBIDA', 'YOGURT', 'HARINA', 'SAL', 'ARROZ', 'MANZANA', 'TOMATE', 'QUESO']
+--
+TIPO: PADRES MEDIANA EDAD
+['SAL', 'LECHE', 'PAN', 'JUGO', 'TOALLA NOVA', 'HARINA', 'BEBIDA', 'TOMATE', 'MANZANA', 'YOGURT']
+--
+TIPO: PADRES JOVENES
+['LECHE', 'JUGO', 'SAL', 'PAN', 'TOMATE', 'BEBIDA', 'QUESO', 'POLERA', 'HARINA', 'YOGURT']
+--
+TIPO: TERCERA EDAD
+['VINO', 'JUGO', 'LECHE', 'CERVEZA', 'BEBIDA', 'PAN', 'SAL', 'TOMATE', 'YOGURT', 'QUESO']
+--
+TIPO: JOVENES QUE VIVE CON PADRES
+['BEBIDA', 'CERVEZA', 'PAN', 'JUGO', 'LECHE', 'SAL', 'HARINA', 'GALLETAS', 'CARNE', 'YOGURT']
+--
+---------
+Gasto promedio por tipo de cliente
+TIPO: RAPIDOS - 6.87
+TIPO: PADRES MEDIANA EDAD - 50.6
+TIPO: PADRES JOVENES - 41.34
+TIPO: TERCERA EDAD - 25.24
+TIPO: JOVENES QUE VIVE CON PADRES - 11.1
+---------
+Tiempo promedio dentro del super mercado por tipo de cliente
+TIPO: RAPIDOS - 154.49
+TIPO: PADRES MEDIANA EDAD - 370.33
+TIPO: PADRES JOVENES - 324.03
+TIPO: TERCERA EDAD - 263.15
+TIPO: JOVENES QUE VIVE CON PADRES - 162.54
+---------
+Tiempo promedio en una cola por tipo de cliente
+TIPO: RAPIDOS - 8.37
+TIPO: PADRES MEDIANA EDAD - 8.44
+TIPO: PADRES JOVENES - 8.83
+TIPO: TERCERA EDAD - 6.05
+TIPO: JOVENES QUE VIVE CON PADRES - 6.13

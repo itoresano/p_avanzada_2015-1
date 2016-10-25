@@ -1,0 +1,15 @@
+[INFORME]
+-----------------------------------------------------------
+Total ganado por el supermercado: 107185
+---------
+TOP 10 de productos comprados por tipo de cliente
+TIPO: PREFERENCIAL['PAN', 'LECHE', 'TALLARINES', 'TOALLA NOVA', 'YOGURT', 'MANZANA', 'ARROZ', 'QUESO', 'TOMATE', 'CARNE']
+---------
+Gasto promedio por tipo de cliente
+TIPO: PREFERENCIAL - 58.25
+---------
+Tiempo promedio dentro del super mercado por tipo de cliente
+TIPO: PREFERENCIAL - 5776.25
+---------
+Tiempo promedio en una cola por tipo de cliente
+TIPO: PREFERENCIAL - 5344.03
